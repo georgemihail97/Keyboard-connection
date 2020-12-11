@@ -1,0 +1,53 @@
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.exe
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.exe
+c:\users\admin\documents\visual studio 2015\Projects\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.pdb
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.exe.config
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.exe
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\bin\Debug\SIE_tastatura.pdb
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csprojAssemblyReference.cache
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.Form1.resources
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.Properties.Resources.resources
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.GenerateResource.cache
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.CoreCompileInputs.cache
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.exe
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.pdb
+D:\work 1\idp_curs3\SIE\SIE_tastatura\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.ResolveComReference.cache
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe.config
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.pdb
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csprojAssemblyReference.cache
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.ResolveComReference.cache
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Form1.resources
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Properties.Resources.resources
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.GenerateResource.cache
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.exe
+C:\Users\student\Desktop\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.pdb
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe.config
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.pdb
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csprojAssemblyReference.cache
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.ResolveComReference.cache
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Form1.resources
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Properties.Resources.resources
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.GenerateResource.cache
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.CoreCompileInputs.cache
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.exe
+G:\Sisteme de IO\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe.config
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\bin\Debug\SIE_tastatura.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csprojAssemblyReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.ResolveComReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Form1.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.Properties.Resources.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.GenerateResource.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.csproj.CoreCompileInputs.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\SIE_tastatura_V2\SIE_tastatura\obj\Debug\SIE_tastatura.pdb
